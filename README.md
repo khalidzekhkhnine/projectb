@@ -1,2 +1,1 @@
-# projectb
-Merit America Project
+# projectb's README
